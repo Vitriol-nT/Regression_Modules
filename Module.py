@@ -1,6 +1,4 @@
 #Module
-#USE OF EXTENSIONAL LIBRARY IS AN ACTION OF PROVING THAT YOU ARE A TOTAL NUMB NUT
-#IT IS WITHIN PROVING THE LANGUAGE YOU ARE USING IS A NOTHING BUT BUNCH OF LIBRARIES. WHAT ARE YOU USING? LIBRARY? PYTHON?
 
 #Linear Regression ----------------------------------------------------------------------------------
 class LR2:
