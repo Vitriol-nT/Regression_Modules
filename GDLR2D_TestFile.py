@@ -1,4 +1,4 @@
-from LR2_implemented_GD import *
+from GD_Implemented_LR2D import *
 import matplotlib.pyplot as plt
 import numpy as np
 
