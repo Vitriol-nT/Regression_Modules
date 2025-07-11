@@ -1,6 +1,6 @@
 import math
 
-from LR2_implemented_GD import *
+from GD_implemented import *
 import matplotlib.pyplot as plt
 import numpy as np
 
